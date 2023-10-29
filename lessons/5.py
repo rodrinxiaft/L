@@ -1,6 +1,7 @@
- #文字列　"""か''でくくる
+#文字列　"""か''でくくる
 word1 = "hello"
 print(word1)
+
 #type 関数によってデータ型を確認できる
 print(type(word1)) #文字列なので型はstrと表示される
 
