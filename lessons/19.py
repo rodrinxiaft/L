@@ -78,4 +78,4 @@ def count_words2(str_engsentences):
     list1 = list(str1)
     set1 = set(list1)
     return len(set1)
-print(count_words2('From Stettin in the Baltic to Trieste in the Adriatic an iron curtain has descended across the Continent.') )
+print(count_words2('From Stettin in the Baltic to Trieste in the Adriatic an iron curtain has descended across the Continent.') == 15)
